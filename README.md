@@ -1,2 +1,2 @@
-# InbloomWarp2
-update &amp; installer repository for the WARP2
+# InbloomMelt2
+update &amp; installer repository for the MELT2
